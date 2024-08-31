@@ -2,7 +2,7 @@
 
 Creador de BoostedFlipper
 
-![BoostedFlipper]https://github.com/organizations/BoostedFlipper
+[BoostedFlipper](https://github.com/organizations/BoostedFlipper)
 
 Por favor serpiente. no me destruyas mi gráfica de actividad!
 ![snake gif](https://github.com/danucosukosuko/danucosukosuko/blob/output/github-contribution-grid-snake.svg)
